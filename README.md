@@ -3,9 +3,7 @@
 ### Hello World 👋 It's me [Uday Yadav!](https://github.com/dev117uday)
 
 <p align="center">
-  <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
-  <br>
-  <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="100">
+  <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
   <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Uday_Yadav-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uday-yadav-cs/)](https://www.linkedin.com/in/uday-yadav-cs/)
@@ -16,7 +14,7 @@
 
 
 
-Hi,I'm Uday Yadav <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"> ! I'm a Full stack developer interested in web development,cross platform development and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile!
+Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cross platform development and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile!
 
 
 
