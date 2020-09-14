@@ -2,6 +2,10 @@
 
 [<button class="mh-button mh-b3">Go Back</button>](../index.md)
 
+Follow me on
+
+[GitHub](https://github.com/dev117uday) || [LinkedIn](https://www.linkedin.com/in/uday-yadav-4995a818a/)
+
 # Getting Started With TypeScript based Express Server
 
 ![typescript server intro image](./images/type-server.jpeg)
@@ -81,8 +85,6 @@ app.listen(3000, function () {
 That's It
 You can now run your server using `npm run dev`
 
-I hope you like this article :
+I hope you like this article !
 
-Follow me on
 
-[GitHub](https://github.com/dev117uday) || [LinkedIn](https://www.linkedin.com/in/uday-yadav-4995a818a/)
