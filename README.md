@@ -5,6 +5,8 @@
 <p align="center">
   <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
   <br>
+  <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="100">
+  <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Uday_Yadav-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uday-yadav-cs/)](https://www.linkedin.com/in/uday-yadav-cs/)
 [![Website Badge](https://img.shields.io/badge/-resume-site?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://uday-yadav.web.app)](https://uday-yadav.web.app/)
