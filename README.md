@@ -23,7 +23,7 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 
 **About me:**
 
-- 🔭 Web Lead member at Google Developer Student Clubs ADGITM
+- 🔭 Web Lead at Google Developer Student Clubs ADGITM
 - 🔭 Core Team Member at DataQuest : community of 700+ students
 
 ![](https://img.shields.io/badge/CSharp-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Golang-%7C-0%2C%2022%2C%20100)![](https://img.shields.io/badge/JavaScript-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
