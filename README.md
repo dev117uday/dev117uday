@@ -48,7 +48,7 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 
 For Notes and Documentation : [Notes.md](https://dev117uday.github.io/notes-md/)
 
-Code Blog : [here](./index.md)
+Code Blog : [here](https://dev117uday.github.io/dev117uday/)
 
 ![Uday Yadav's github stats](https://github-readme-stats.vercel.app/api?username=dev117uday&show_icons=true,theme=blue-green)
 
