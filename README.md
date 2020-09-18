@@ -27,8 +27,24 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 - 🔭 Core Team Member at DataQuest : community of 700+ students
 
 ![](https://img.shields.io/badge/CSharp-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Golang-%7C-0%2C%2022%2C%20100)![](https://img.shields.io/badge/JavaScript-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+ 
+<!-- <br><br><br><br><br><br><br><br><br><br><br><br> -->
 
-<b>You can site my portfolio:<b> : https://uday-yadav.web.app
+
+
+<link rel="stylesheet" type="text/css" href="./style.css">
+
+<b>You can site my portfolio :<b> <br>
+[<button class="mh-button mh-b3">Resume Site</button>](https://uday-yadav.web.app)
+
+<b>Notes .md site : <b>  <br>
+[<button class="mh-button mh-b2">Notes .md</button>](https://dev117uday.github.io/notes-md/)
+
+<b>Code Blog site : <b> <br>
+[<button class="mh-button mh-b1">Code Blog</button>](https://dev117uday.github.io/dev117uday/)
+
+
+
 
 ### Languages and Tools :
 
@@ -41,14 +57,6 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-<br>
-<br>
-
-For Notes and Documentation : [Notes.md](https://dev117uday.github.io/notes-md/)
-
-Code Blog : [here](https://dev117uday.github.io/dev117uday/)
 
 ![Uday Yadav's github stats](https://github-readme-stats.vercel.app/api?username=dev117uday&show_icons=true,theme=blue-green)
 
