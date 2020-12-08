@@ -26,7 +26,7 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 - 🔭 Web Lead at Google Developer Student Clubs ADGITM
 - 🔭 Core Team Member at DataQuest : community of 700+ students
 
-![](https://img.shields.io/badge/Golang-%7C-0%2C%2022%2C%20100)![](https://img.shields.io/badge/JavaScript-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![](https://img.shields.io/badge/Golang-%7C-0%2C%2022%2C%20100)![](https://img.shields.io/badge/JavaScript-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/Java-%7C-yellowgreen)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
  
 <!-- <br><br><br><br><br><br><br><br><br><br><br><br> -->
 
@@ -34,14 +34,14 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 
 <link rel="stylesheet" type="text/css" href="./style.css">
 
-<b>You can site my portfolio :<b> <br>
-[<button class="mh-button mh-b3">Resume Site</button>](https://uday-yadav.web.app)
+<b>Resume : <b> <br>
+[<button class="mh-button mh-b3">Resume Site</button>](https://drive.google.com/file/d/17Eu5NmMMrp3AZx3S0QOAyPnwyddRFoQ_/view)
 
 <b>Notes .md site : <b>  <br>
-[<button class="mh-button mh-b2">Notes .md</button>](https://dev117uday.github.io/notes-md/)
+[<button class="mh-button mh-b2">Notes .md</button>](https://dev117uday.gitbook.io/notes-md/)
 
 <b>Code Blog site : <b> <br>
-[<button class="mh-button mh-b1">Code Blog</button>](https://dev117uday.github.io/dev117uday/)
+[<button class="mh-button mh-b1">Code Blog</button>](https://dev117uday.gitbook.io/codeblog/)
 
 
 
@@ -49,7 +49,7 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 ### Languages and Tools :
 
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
