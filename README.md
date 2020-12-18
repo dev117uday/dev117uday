@@ -57,7 +57,7 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Uday Yadav's github stats](https://github-readme-stats.vercel.app/api?username=dev117uday&show_icons=true,theme=blue-green)
+![Uday Yadav's github stats](https://github-readme-stats.vercel.app/api?username=dev117uday&show_icons=true,theme=chartreuse-dark)
 
 
 
