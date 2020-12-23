@@ -26,7 +26,6 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 
 **Find my writings at :**
 
-- [<button >Resume Site</button>](https://drive.google.com/file/d/17Eu5NmMMrp3AZx3S0QOAyPnwyddRFoQ_/view)
 - [<button >Notes.md</button>](https://dev117uday.gitbook.io/notes-md/)
 - [<button >Codeblog.md</button>](https://dev117uday.github.io/codeblog/)
 - [<button >Golang.md</button>](https://dev117uday.gitbook.io/golang-md/)
