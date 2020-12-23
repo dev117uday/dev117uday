@@ -21,8 +21,7 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 - 🔭 Web Lead at Google Developer Student Clubs ADGITM
 - 🔭 Core Team Member at DataQuest : community of 700+ students
 
-![](https://img.shields.io/badge/Golang-%7C-0%2C%2022%2C%20100)![](https://img.shields.io/badge/JavaScript-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/Java-%7C-yellowgreen)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
- 
+
 <link rel="stylesheet" type="text/css" href="./style.css">
 
 **Find my writings at :**
@@ -35,12 +34,15 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 
 ### Tech Stack :
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" width="30" src="./icons/golang.jpg"></code> &nbsp;
+<code><img height="30" width="30" src="./icons/java.png"></code> &nbsp;
+<code><img height="30" width="30" src="./icons/js.png"></code> &nbsp;
+<code><img height="30" width="30" src="./icons/gcp.png"></code> &nbsp;
+<code><img height="30" width="30" src="./icons/ibm-cloud.png"></code> &nbsp;
+<code><img height="30" width="30" src="./icons/git.png"></code> &nbsp;
+<code><img height="30" width="30" src="./icons/vuejs.png"></code> &nbsp;
+<code><img height="30" width="30" src="./icons/postgres.png"></code> &nbsp;
+<code><img height="30" width="30" src="./icons/linux.png"></code> &nbsp;
+<code><img height="30" width="30" src="./icons/postman.png"></code> &nbsp;
 
 ![Uday Yadav's github stats](https://github-readme-stats.vercel.app/api?username=dev117uday&show_icons=true,theme=chartreuse-dark)
