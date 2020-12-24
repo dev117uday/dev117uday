@@ -37,7 +37,6 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 <code><img height="30" width="30" src="./icons/java.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/js.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/gcp.png"></code> &nbsp;
-<code><img height="30" width="30" src="./icons/ibm-cloud.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/git.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/vuejs.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/postgres.png"></code> &nbsp;
