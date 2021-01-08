@@ -29,6 +29,10 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 - [<button >Notes.md</button>](https://dev117uday.gitbook.io/notes-md/)
 - [<button >Codeblog.md</button>](https://dev117uday.github.io/codeblog/)
 - [<button >Golang.md</button>](https://dev117uday.gitbook.io/golang-md/)
+- [<button >DSA.md</button>](https://dev117uday.gitbook.io/ds-and-a/)
+- [<button >Project Ideas</button>](https://dev117uday.github.io/project-idea/)
+- [<button >Learning GCP</button>](https://dev117uday.github.io/learning-gcp/)
+
 
 
 ### Tech Stack :
