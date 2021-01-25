@@ -14,6 +14,11 @@
 
 Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cross platform development and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile!
 
+### Experience : 
+- Web Team Lead : Developer Student Clubs ADGITM | sept 2020 - Jan 2021 [here](https://dsc-adgitm.web.app/)
+- Core Team member DataQuestML : community of more than 700+ developers
+- Ethereum India Fellowship | present - 
+
 **Find my writings at :**
 
 - [<button >Notes.md</button>](https://dev117uday.gitbook.io/notes-md/)
