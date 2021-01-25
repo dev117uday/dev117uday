@@ -14,10 +14,6 @@
 
 Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cross platform development and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile!
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
-<link rel="stylesheet" type="text/css" href="./style.css">
-
 **Find my writings at :**
 
 - [<button >Notes.md</button>](https://dev117uday.gitbook.io/notes-md/)
