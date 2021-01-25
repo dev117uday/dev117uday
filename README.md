@@ -16,12 +16,6 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-**About me:**
-
-- 🔭 Web Lead at Google Developer Student Clubs ADGITM
-- 🔭 Core Team Member at DataQuest : community of 700+ students
-
-
 <link rel="stylesheet" type="text/css" href="./style.css">
 
 **Find my writings at :**
@@ -32,8 +26,6 @@ Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cro
 - [<button >DSA.md</button>](https://dev117uday.gitbook.io/ds-and-a/)
 - [<button >Project Ideas</button>](https://dev117uday.github.io/project-idea/)
 - [<button >Learning GCP</button>](https://dev117uday.github.io/learning-gcp/)
-
-
 
 ### Tech Stack :
 
