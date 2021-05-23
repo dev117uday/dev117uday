@@ -12,28 +12,28 @@
 [![Gmail Badge](https://img.shields.io/badge/-mail_me-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:yadav117uday@outlook.com)](mailto:yadav117uday@outlook.com)
 <br>
 
-Hi,I'm Uday Yadav ! I'm a Full stack developer interested in web development,cross platform development and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile!
+Hi,I'm Uday Yadav ! I am a sophomore pursuing computer science engineering from ADGITM/GGSIPU. Previously, I have held the position of web team lead at developer student clubs adgitm and have been facilitated fellowship from ethereum India foundation.
 
 ### Experience : 
-- Web Team Lead : Developer Student Clubs ADGITM | sept 2020 - Jan 2021 [here](https://dsc-adgitm.web.app/)
+- Web Team Lead : Developer Student Clubs ADGITM | Sept 2020 - Jan 2021 [here](https://dsc-adgitm.web.app/)
 - Core Team member DataQuestML : community of more than 700+ developers
-- Ethereum India Fellowship | present - 
+- Ethereum India Fellowship | Fe 2021 - April 2021
 
 **Find my writings at :**
 
-- [<button >Notes.md</button>](https://dev117uday.gitbook.io/notes-md/)
+- [<button >Notes.md</button>](https://dev117uday.github.io/notes-md//)
 - [<button >Codeblog.md</button>](https://dev117uday.github.io/codeblog/)
-- [<button >Golang.md</button>](https://dev117uday.gitbook.io/golang-md/)
-- [<button >DSA.md</button>](https://dev117uday.gitbook.io/ds-and-a/)
-- [<button >Project Ideas</button>](https://dev117uday.github.io/project-idea/)
-- [<button >Learning GCP</button>](https://dev117uday.github.io/learning-gcp/)
+- [<button >Things i tried</button>](https://github.com/dev117uday/timeline/blob/main/learned.md)
+- [<button >DSA.md</button>](https://dev117uday.github.io/ds-and-a/)
+- [<button >2021 in a nutshell</button>](https://github.com/dev117uday/timeline/blob/main/2021.md/)
+
 
 ### Tech Stack :
 
 <code><img height="30" width="30" src="./icons/golang.jpg"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/java.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/js.png"></code> &nbsp;
-<code><img height="30" width="30" src="./icons/gcp.png"></code> &nbsp;
+<code><img height="30" width="30" src="./icons/aws.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/git.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/vuejs.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/postgres.png"></code> &nbsp;
