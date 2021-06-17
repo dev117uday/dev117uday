@@ -21,10 +21,10 @@ Hi,I'm Uday Yadav ! I am a sophomore pursuing computer science engineering from 
 
 **Find my writings at :**
 
-- [<button >Notes.md</button>](https://dev117uday.github.io/notes-md//)
+- [<button >Notes.md</button>](https://dev117uday.gitbook.io/notes-md/)
 - [<button >Codeblog.md</button>](https://dev117uday.github.io/codeblog/)
 - [<button >Things i tried</button>](https://github.com/dev117uday/timeline/blob/main/learned.md)
-- [<button >DSA.md</button>](https://dev117uday.github.io/ds-and-a/)
+- [<button >DSA.md</button>](https://dev117uday.gitbook.io/dsa/)
 - [<button >2021 in a nutshell</button>](https://github.com/dev117uday/timeline/blob/main/2021.md/)
 
 
