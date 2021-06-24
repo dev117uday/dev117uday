@@ -17,7 +17,7 @@ Hi,I'm Uday Yadav ! I am a sophomore pursuing computer science engineering from 
 ### Experience : 
 - Web Team Lead : Developer Student Clubs ADGITM | Sept 2020 - Jan 2021 [here](https://dsc-adgitm.web.app/)
 - Core Team member DataQuestML : community of more than 700+ developers
-- Ethereum India Fellowship | Fe 2021 - April 2021
+- Ethereum India Fellowship | Feb 2021 - April 2021 [here](https://devfolio.co/blog/devfolio-ethereum-india-fellowship-2-0-is-here/)
 
 **Find my writings at :**
 
@@ -33,9 +33,7 @@ Hi,I'm Uday Yadav ! I am a sophomore pursuing computer science engineering from 
 <code><img height="30" width="30" src="./icons/golang.jpg"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/java.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/js.png"></code> &nbsp;
-<code><img height="30" width="30" src="./icons/aws.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/git.png"></code> &nbsp;
-<code><img height="30" width="30" src="./icons/vuejs.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/postgres.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/linux.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/postman.png"></code> &nbsp;
