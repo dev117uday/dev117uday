@@ -31,7 +31,7 @@ Hi,I'm Uday Yadav ! I am a sophomore pursuing computer science engineering from 
 ### Tech Stack :
 
 <code><img height="30" width="30" src="./icons/golang.jpg"></code> &nbsp;
-<code><img height="30" width="30" src="./icons/java.png"></code> &nbsp;
+<code><img height="30" width="30" src="./icons/csharp.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/js.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/git.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/postgres.png"></code> &nbsp;
