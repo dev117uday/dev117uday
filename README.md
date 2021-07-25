@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mail_me-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:yadav117uday@outlook.com)](mailto:yadav117uday@outlook.com)
 <br>
 
-Hi,I'm Uday Yadav ! I am a sophomore pursuing computer science engineering from ADGITM/GGSIPU. Previously, I have held the position of web team lead at developer student clubs adgitm and have been facilitated fellowship from ethereum India foundation.
+My name is Uday Yadav. I am a pre-final year undergraduate pursuing computer science engineering from ADGITM-GGSIPU. Previously, I have held the position of Web Team lead at Developer Students Club ADGITM, and have been facilitated fellowship from Ethereum India foundation.
 
 ### Experience : 
 - Web Team Lead : Developer Student Clubs ADGITM | Sept 2020 - Jan 2021 [here](https://dsc-adgitm.web.app/)
@@ -26,6 +26,7 @@ Hi,I'm Uday Yadav ! I am a sophomore pursuing computer science engineering from 
 - [<button >Things i tried</button>](https://github.com/dev117uday/timeline/blob/main/learned.md)
 - [<button >DSA.md</button>](https://dev117uday.gitbook.io/dsa/)
 - [<button >2021 in a nutshell</button>](https://github.com/dev117uday/timeline/blob/main/2021.md/)
+- [<button >Learning PostgreSQL</button>](https://dev117uday.gitbook.io/learning-postgresql/)
 
 
 ### Tech Stack :
