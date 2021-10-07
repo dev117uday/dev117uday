@@ -32,11 +32,10 @@ My name is Uday Yadav. I am a pre-final year undergraduate pursuing computer sci
 ### Tech Stack :
 
 <code><img height="30" width="30" src="./icons/golang.jpg"></code> &nbsp;
-<code><img height="30" width="30" src="./icons/csharp.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/js.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/git.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/postgres.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/linux.png"></code> &nbsp;
-<code><img height="30" width="30" src="./icons/postman.png"></code> &nbsp;
+
 
 ![Uday Yadav's github stats](https://github-readme-stats.vercel.app/api?username=dev117uday&show_icons=true,theme=chartreuse-dark)
