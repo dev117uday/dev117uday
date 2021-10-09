@@ -26,15 +26,17 @@ My name is Uday Yadav. I am a pre-final year undergraduate pursuing computer sci
 - [<button >Things i tried</button>](https://github.com/dev117uday/timeline/blob/main/learned.md)
 - [<button >DSA.md</button>](https://dev117uday.gitbook.io/dsa/)
 - [<button >2021 in a nutshell</button>](https://github.com/dev117uday/timeline/blob/main/2021.md/)
-- [<button >Learning PostgreSQL</button>](https://dev117uday.gitbook.io/learning-postgresql/)
+- [<button >Learning Databases</button>](https://dev117uday.gitbook.io/databases/)
 
 
 ### Tech Stack :
 
 <code><img height="30" width="30" src="./icons/golang.jpg"></code> &nbsp;
+  <code><img height="30" width="30" src="./icons/java.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/js.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/git.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/postgres.png"></code> &nbsp;
+  <code><img height="30" width="30" src="./icons/mongodb.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/linux.png"></code> &nbsp;
 
 
