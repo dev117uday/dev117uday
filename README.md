@@ -12,12 +12,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-mail_me-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:yadav117uday@outlook.com)](mailto:yadav117uday@outlook.com)
 <br>
 
-My name is Uday Yadav. I am a pre-final year undergraduate pursuing computer science engineering from ADGITM-GGSIPU. Previously, I have held the position of Web Team lead at Developer Students Club ADGITM, and have been facilitated fellowship from Ethereum India foundation.
+My name is Uday Yadav. I am a pre-final year undergraduate pursuing computer science engineering from ADGITM-GGSIPU. Previously, I have held the position of Web Team lead at Developer Students Club ADGITM, and have been facilitated fellowship from Ethereum India foundation. Current volunteering as GitHub Campus Expert after completing my training for batch August 2021
 
 ### Experience : 
 - Web Team Lead : Developer Student Clubs ADGITM | Sept 2020 - Jan 2021 [here](https://dsc-adgitm.web.app/)
 - Core Team member DataQuestML : community of more than 700+ developers
 - Ethereum India Fellowship | Feb 2021 - April 2021 [here](https://devfolio.co/blog/devfolio-ethereum-india-fellowship-2-0-is-here/)
+- GitHub Campus Expert | Nov 2021 - Present 
 
 **Find my writings at :**
 
@@ -32,11 +33,11 @@ My name is Uday Yadav. I am a pre-final year undergraduate pursuing computer sci
 ### Tech Stack :
 
 <code><img height="30" width="30" src="./icons/golang.jpg"></code> &nbsp;
-  <code><img height="30" width="30" src="./icons/java.png"></code> &nbsp;
+<code><img height="30" width="30" src="./icons/java.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/js.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/git.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/postgres.png"></code> &nbsp;
-  <code><img height="30" width="30" src="./icons/mongodb.png"></code> &nbsp;
+<code><img height="30" width="30" src="./icons/mongodb.png"></code> &nbsp;
 <code><img height="30" width="30" src="./icons/linux.png"></code> &nbsp;
 
 
