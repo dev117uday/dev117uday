@@ -18,7 +18,7 @@ My name is Uday Yadav. I am a pre-final year undergraduate pursuing computer sci
 - Web Team Lead : Developer Student Clubs ADGITM | Sept 2020 - Jan 2021 [here](https://dsc-adgitm.web.app/)
 - Core Team member DataQuestML : community of more than 700+ developers
 - Ethereum India Fellowship | Feb 2021 - April 2021 [here](https://devfolio.co/blog/devfolio-ethereum-india-fellowship-2-0-is-here/)
-- GitHub Campus Expert | Nov 2021 - Present 
+- GitHub Campus Expert | Nov 2021 - Present [here](https://githubcampus.expert/dev117uday/)
 
 **Find my writings at :**
 
