@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mail_me-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:yadav117uday@outlook.com)](mailto:yadav117uday@outlook.com)
 <br>
 
-My name is Uday Yadav. I am a pre-final year undergraduate pursuing computer science engineering from ADGITM-GGSIPU. Previously, I have held the position of Web Team lead at Developer Students Club ADGITM, and have been facilitated fellowship from Ethereum India foundation. Current volunteering as GitHub Campus Expert after completing my training for batch August 2021
+Pre-Final year student pursuing Computer Science Engineering from ADGITM | GGSIPU. I am currently serving as GitHub Campus Expert for India 🇮🇳.  Previously, I have facilitated 30 days of Google Cloud and held Web Team Lead for Google Developer Student Clubs ADGITM and was selected as a Fellow for Ethereum India Foundation. I am a Quick Learner with an interest in Backend Development and Database Engineering
 
 ### Experience : 
 - Web Team Lead : Developer Student Clubs ADGITM | Sept 2020 - Jan 2021 [here](https://dsc-adgitm.web.app/)
