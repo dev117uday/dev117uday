@@ -12,14 +12,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-mail_me-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:yadav117uday@outlook.com)](mailto:yadav117uday@gmail.com)
 <br>
 
-Final year student pursuing CSE from ADGITM | GGSIPU. SWE Intern Natwest Group (formerly Royal Bank of Scotland). Currently serving as GitHub Campus Expert for India 🇮🇳.  Previously, facilitated 30 days of GCP and held Web Team Lead for GDSC ADGITM and was selected as a Fellow for Ethereum India Foundation. I am a Quick Learner with an interest in Backend Development and Database Engineering 
+Final year student pursuing CSE from ADGITM | GGSIPU. Ex-SWE Intern Natwest Group (formerly Royal Bank of Scotland). Currently serving as GitHub Campus Expert for India 🇮🇳.  Previously, facilitated 30 days of GCP and held Web Team Lead for GDSC ADGITM and was selected as a Fellow for Ethereum India Foundation. I am a Quick Learner with an interest in Backend Development and Database Engineering 
 
 ### Experience : 
 - Web Team Lead : Developer Student Clubs ADGITM | Sept 2020 - Jan 2021 [here](https://dsc-adgitm.web.app/)
 - Core Team member DataQuestML : community of more than 700+ developers
 - Ethereum India Fellowship | Feb 2021 - April 2021 [here](https://devfolio.co/blog/devfolio-ethereum-india-fellowship-2-0-is-here/)
 - GitHub Campus Expert | Nov 2021 - Present [here](https://githubcampus.expert/dev117uday/)
-- SWE Intern RBS | Aug 2022 - Present
+- SWE Intern RBS | Aug 2022 - Feb 2023
 
 **Find my writings at :**
 
