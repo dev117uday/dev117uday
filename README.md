@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mail_me-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:yadav117uday@outlook.com)](mailto:yadav117uday@gmail.com)
 <br>
 
-Final year student pursuing CSE from ADGITM | GGSIPU. Ex-SWE Intern Natwest Group (formerly Royal Bank of Scotland). Currently serving as GitHub Campus Expert for India 🇮🇳.  Previously, facilitated 30 days of GCP and held Web Team Lead for GDSC ADGITM and was selected as a Fellow for Ethereum India Foundation. I am a Quick Learner with an interest in Backend Development and Database Engineering 
+M.Tech CSE student with a strong interest in Core CS and High Performance Computing. Quick learner with a knack for picking up new tools and technologies. Passionate about Backend Engineering and Cloud Computing for efficient and scalable solutions
 
 ### Experience : 
 - Web Team Lead : Developer Student Clubs ADGITM | Sept 2020 - Jan 2021 [here](https://dsc-adgitm.web.app/)
