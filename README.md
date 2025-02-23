@@ -27,8 +27,6 @@ M.Tech CSE student with a strong interest in Core CS and High Performance Comput
 - [<button >Notes.md</button>](https://dev117uday.github.io/notebook/)
 - [<button >Codeblog.md</button>](https://dev117uday.github.io/codeblog/)
 - [<button >DSA.md</button>](https://dev117uday.github.io/notebook/data-structure-and-algorithms/)
-- [<button >My journey</button>](https://github.com/dev117uday/timeline)
-
 
 
 ### Tech Stack :
